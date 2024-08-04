@@ -1,4 +1,4 @@
 - Hi, Im ItzMrRatsP!
 - I've been working on roblox for over 3 years now. 
 - Languages i have worked with: Python, Luau, C# and C and a little JavaScript.
-- I've been born 18 years ago. 
+- I was introduced to world 18 years ago.

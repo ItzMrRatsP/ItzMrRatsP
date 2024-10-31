@@ -13,4 +13,4 @@
 - Releasing 2-5 games and make some money out of them.
 - Creating plugins and projects that will help other devs to learn/
 
-![ItzMrRatsP's Github stats](https://github-readme-stats.vercel.app/api?username=itzmrratsp&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)

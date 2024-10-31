@@ -1,4 +1,16 @@
-- Hi, Im ItzMrRatsP!
-- I've been working on roblox for over 3 years now. 
-- Languages i have worked with: Python, Luau, C# and C and a little JavaScript.
-- My "Hello World!" was printed 18 years ago
+## About Me 💐
+- Hello, My name is Arshia but people call me Rat, MrRat, ItzMrRatsP.
+- I been programming for well over 6 years in general, 4 of those years are dedicated to roblox.
+- I'm 18 years old and my birthday is on February 13th 2006
+
+## Achievements 🏆
+- Second place on Roblox **Inspire 2024** gamejam
+- Being part of a great team called **GEARWORK**
+- Being friend with bunch of cool people
+
+## Goals 🔥
+- Obtaining one sword called **Developer Long Sword**
+- Releasing 2-5 games and make some money out of them.
+- Creating plugins and projects that will help other devs to learn/
+
+  

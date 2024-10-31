@@ -1,7 +1,8 @@
-## About Me 💐
-- Hello, My name is Arshia but people call me Rat, MrRat, ItzMrRatsP.
-- I been programming for well over 6 years in general, 4 of those years are dedicated to roblox.
-- I'm 18 years old and my birthday is on February 13th 2006
+## About Me ⭐
+- Name: ItzMrRatsP
+- Languages: Python, Lua(u) and C#.
+- Experience: 6 Years, 4 Years dedicated to Lua(u) which is **Roblox** engine language.
+- Birthday: Feb 13th 2006
 
 ## Achievements 🏆
 - Second place on Roblox **Inspire 2024** gamejam

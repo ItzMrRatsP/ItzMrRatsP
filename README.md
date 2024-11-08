@@ -14,4 +14,9 @@
 - Releasing 2-5 games and make some money out of them.
 - Creating plugins and projects that will help other devs to learn
 
+## Projects 🔰
+- Custom Pathfinding (OPEN-SOURCED ⭐): https://github.com/ItzMrRatsP/FlowField
+- Custom Scheduler (OPEN-SOURCED ⭐): https://github.com/ItzMrRatsP/Schedule
+- Malice Legacy (OPEN-SOURCED ⭐): https://github.com/ItzMrRatsP/Malice-Legacy
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmrratsp&size_weight=0.5&count_weight=0.5) [![ItzMrRatsP's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=itzmrratsp&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
